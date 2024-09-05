@@ -1,11 +1,7 @@
 # Unsupervised-Anomaly-Detection-for-Risk-Identification
 
-Several unsupervised anomaly detection techniques aimed at identifying anomalies in time series financial data are implemented here. The models focus on detection irregularities and risk events in spending patterns.
+## Overview
 
-Models Implemented:-
-
-1. Isolation Forest
-2. One Class SVM
-3. LSTM Autoencoder
+This repository goes beyond traditional anomaly detection by focusing on identifying risk events in financial spending data. It recognizes that not all anomalies indicate risk, and the models are designed to distinguish between typical anomalies and those that signify potential risk events. This approach enhances precision in financial risk management by targeting meaningful outliers.
 
 
